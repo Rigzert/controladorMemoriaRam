@@ -1,0 +1,14 @@
+{
+  "name": "controlador_memoria",
+  "version": "1.0.0",
+  "description": "controlador_de_memoria_ram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memoria_ram"
+  ],
+  "author": "Robert Rodriguez",
+  "license": "MIT"
+}
